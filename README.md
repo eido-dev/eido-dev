@@ -21,8 +21,8 @@
 
 <p align="center" class="d-flex justify-content-center align-items-center">
   <a href="https://github.com/eido-dev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrians-23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrians-23&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eido-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eido-dev&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 
