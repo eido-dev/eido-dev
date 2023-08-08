@@ -20,8 +20,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center" class="d-flex justify-content-center align-items-center">
-  <a href="https://github.com/Failzuma">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrians-23&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/eido-dev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrians-23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrians-23&layout=compact&langs_count=8&theme=omni"/>
   </a>
 </p>
@@ -29,8 +29,8 @@
 
 <!-- ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="https://steamcommunity.com/id/Failzuma/">
-<img alt="Steam" src="https://img.shields.io/badge/-Failzuma-4E94EC?style=flat&logo=Steam&logoColor=0a0b24"/></a>
+<a href="https://steamcommunity.com/id/eido-dev/">
+<img alt="Steam" src="https://img.shields.io/badge/-Eido-4E94EC?style=flat&logo=Steam&logoColor=0a0b24"/></a>
 <p align="center">
     <a href="https://discord.com/users/325844853152022528"><img src="https://lanyard.cnrad.dev/api/325844853152022528?borderRadius=20px&bg=transparent&idleMessage=Probably%20doing%20something%20else..." alt="Discord" width="450"/></a>
 </p>
